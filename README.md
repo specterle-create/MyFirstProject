@@ -24,5 +24,7 @@ System. out.println("Student" + name + "Average" + grade)
 Your Name Tran Le Nhat Tien
 
 "Updated README with lab instructions.”
+## Collaboration Acknowledgment
+This project was reviewed and edited by [Ly Van Cong Hoan] on GitHub.
 
 
