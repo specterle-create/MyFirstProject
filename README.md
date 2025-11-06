@@ -1,11 +1,28 @@
-# MyFirstProject
-all my project for practice java
+Example content:
 
-this program is a simple game designed to guess random numbers within a certain range to find the lucky number.
+# Lab: Student Grade Calculator
+
+This program reads student names and scores, calculates their average, 
+and displays the letter grade.
+
 ## How to Run
 1. Open the program in your IDE.
-2. choose a number within range.
-3. you can see a result even if you're lucky or not.
+2. Enter student names and scores.
+3. View the calculated grade output.
+Scanner sc = new Scanner(System.in);
+String name = sc.nextString();
+Int grade = sc.nextInt();
+Edit added by (Van Cong Hoan Ly)
+
 ## Example Output
-dung roi thang l
-sai roi, bat ngo ch thang l
+Student: Alex  
+Average: 88.5  
+Grade: B
+
+System. out.println("Student" + name + "Average" + grade)
+## Author
+Your Name Tran Le Nhat Tien
+
+"Updated README with lab instructions.”
+
+
