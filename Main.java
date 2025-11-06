@@ -6,14 +6,14 @@ public class Main {
     //Random rand = new Random();
     //int soMayMan=rand.nextInt(10)+1;
     int soMayMan=7;
-    System.out.print("so bi mat ma may da chon la(1-10): ");
+    System.out.print("The range number: (1-10): ");
     int number=sc.nextInt();
 
     if(number==soMayMan){
-        System.out.println("dung roi thang l");
+        System.out.println("correctly");
     }
     else{
-        System.out.println("sai roi, bat ngo ch thang l");
+        System.out.println("Wrong number");
     }
 
     }
